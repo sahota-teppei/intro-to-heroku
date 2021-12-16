@@ -6,6 +6,6 @@
   ],
   "repository": "https://github.com/sahota-teppei/intro-to-heroku",
   "addons": [
-    "heroku-postgresql"
+    "heroku-postgresql2"
   ]
 }
